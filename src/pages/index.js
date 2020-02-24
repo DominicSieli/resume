@@ -8,17 +8,20 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
+    <h1>About Me</h1>
     <p>
-      I am Dominic Sieli. I am a game developer and really enjoy programming video games.
-      I have programmed several video games from idea to publishing on multiple platforms.
-      These video games were primarily developed using Unity with C# and now I am currently
-      developing an open source game engine with C++.
+      Dominic Sieli is a video game and software developer with over 10 years of experience.
+      He graduated from ITT Technical Institute with a bachelor's degree in digital entertainment
+      and game design. He has been very active in the game development community with accreditation
+      on the hit Xbox 360 title Alan Wake, as well as self-published solo projects including 
+      Munchy Mo (Google Play), Space Shark (Google Play) and Vector Blade (Xbox One).
     </p>
     <p>
-      As someone who has a background in executing ideas all the way to publishing them on
-      public platforms, I feel that I could bring an excellent skillset to your team as a 
-      software engineer.
+      Dominic is a passionate programmer who is always looking for new challenges and opportunities
+      to develop his skills. His stoic optimism gives him the grit and determination to overcome
+      difficult tasks and finish challenging projects. Developing and publishing video games is no 
+      easy task, especially for a solo developer. Dominic has proven that he can fallow difficult 
+      projects to completion and deliver quality software.
     </p>
   </Layout>
 )

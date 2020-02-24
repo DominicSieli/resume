@@ -4,10 +4,10 @@ import Layout from "../components/layout"
 
 const SecondPage = () => (
   <Layout>
-    <h1>My Projects</h1>
-    <h3><a href="https://github.com/DominicSieli/Vulcan-Engine">Vulcan Game Engine</a></h3>
+    <h1>Current Projects</h1>
+    <h3><a href="https://github.com/DominicSieli/Samurai-Engine">Samurai Game Engine</a></h3>
     <p>
-      This is an open source game engine being developed with C++.
+      This is an open source game engine.
     </p>
   </Layout>
 )
