@@ -3,20 +3,20 @@ module.exports = {
     title: `Dominic Sieli`,
     menuLinks:[
       {
-        name:'Home',
-        link:'/'
+        name: 'Home',
+        link: '/'
       },
       {
-        name:'Accreditation',
-        link:'/accreditation'
+        name: 'Accreditation',
+        link: '/accreditation'
       },
       {
-        name:'Projects',
-        link:'/projects'
+        name: 'Projects',
+        link: '/projects'
       },
       {
         name: 'GitHub',
-        link:'github.com/DominicSieli'
+        link: '/github.com/DominicSieli'
       }
     ],
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
