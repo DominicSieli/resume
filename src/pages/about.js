@@ -4,9 +4,10 @@ import Layout from "../components/layout"
 
 const AboutPage = () => (
   <Layout>
-    <h1>About the Author</h1>
+    <h1>Accreditation</h1>
+    <h2><a href="https://www.mobygames.com/developer/sheet/view/developerId,426098/">Alan Wake</a></h2>
     <p>
-      My name is Dominic Sieli. I like video game development. My favorite hobby is programming and gaming.
+      This is an open source game engine built using a data oriented design architecture.
     </p>
   </Layout>
 )
