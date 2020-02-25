@@ -7,11 +7,11 @@ module.exports = {
         link:'/'
       },
       {
-        name:'About Me',
+        name:'Accreditation',
         link:'/about'
       },
       {
-        name:'Projects',
+        name:'Current Projects',
         link:'/projects'
       },
       {
