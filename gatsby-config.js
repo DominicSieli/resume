@@ -8,7 +8,7 @@ module.exports = {
       },
       {
         name:'Accreditation',
-        link:'/accreditation'
+        link:'/about'
       },
       {
         name:'Projects',
