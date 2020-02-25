@@ -8,10 +8,10 @@ module.exports = {
       },
       {
         name:'Accreditation',
-        link:'/about'
+        link:'/accreditation'
       },
       {
-        name:'Current Projects',
+        name:'Projects',
         link:'/projects'
       },
       {
