@@ -9,6 +9,14 @@ const AboutPage = () => (
     <p>
       This is an open source game engine built using a data oriented design architecture.
     </p>
+    <h3><a href="https://www.microsoft.com/en-us/p/vector-blade/9pj4rv8ngjbn?activetab=pivot:overviewtab">Vector Blade</a></h3>
+    <p>
+      This is an open source game engine built using a data oriented design architecture.
+    </p>
+    <h4><a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain_Games.Space_Shark_International&hl=en_US">Space Shark</a></h4>
+    <p>
+      This is an open source game engine built using a data oriented design architecture.
+    </p>
   </Layout>
 )
 
