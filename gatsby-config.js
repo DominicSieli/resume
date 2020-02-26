@@ -15,8 +15,8 @@ module.exports = {
         link: '/projects'
       },
       {
-        name: 'GitHub',
-        link: '/github'
+        name: 'Links',
+        link: '/links'
       }
     ],
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
