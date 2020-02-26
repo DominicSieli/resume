@@ -7,7 +7,7 @@ const SecondPage = () => (
     <h1>Projects</h1>
     <h3><a href="https://github.com/DominicSieli/Samurai-Engine">Samurai Game Engine</a></h3>
     <p>
-      This is an open source game engine built using a data oriented design architecture.
+      The Samurai Engine is an experimental game engine designed to be minimal, extensible, and powerful.
     </p>
   </Layout>
 )
