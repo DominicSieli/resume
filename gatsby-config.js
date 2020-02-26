@@ -3,7 +3,7 @@ module.exports = {
     title: `Dominic Sieli`,
     menuLinks:[
       {
-        name: 'Home',
+        name: 'About',
         link: '/'
       },
       {
