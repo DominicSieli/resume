@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>About Me</h1>
+    <h1>About Dominic</h1>
     <p>
       Dominic Sieli is a video game and software developer with over 10 years of experience.
       He graduated from ITT Technical Institute with a bachelor's degree in digital entertainment
