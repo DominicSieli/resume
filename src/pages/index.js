@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="About" />
     <h1>About Dominic</h1>
     <p>
-      Dominic Sieli is a video game and software developer with over 10 years of experience.
+      Dominic is a video game and software developer with over 10 years of experience.
       He graduated from ITT Technical Institute with a bachelor's degree in digital entertainment
       and game design. He has been very active in the game development community with accreditation
       on the hit Xbox 360 title Alan Wake, as well as self-published solo projects including 
