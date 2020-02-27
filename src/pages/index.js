@@ -14,7 +14,7 @@ const IndexPage = () => (
       He graduated from ITT Technical Institute with a bachelor's degree in digital entertainment
       and game design. He has been very active in the game development community with accreditation
       on the hit Xbox 360 title Alan Wake, as well as self-published solo projects including 
-      Vector Blade (Xbox One) and Space Shark (Google Play).
+      Vector Blade(Xbox One), Space Shark(Google Play), and Munchy Mo(Google Play).
     </p>
     <p>
       Dominic is a passionate programmer who is always looking for new challenges and opportunities
