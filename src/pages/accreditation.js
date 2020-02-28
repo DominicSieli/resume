@@ -8,7 +8,7 @@ const AboutPage = () => (
     <h2><a href="https://www.mobygames.com/developer/sheet/view/developerId,426098/">Alan Wake</a></h2>
     <p>
       Platform: Xbox 360
-      <br/>Release Date: 02/16/2012
+      <br/>Release Date: 05/14/2010
       <br/>Developer: Remedy Entertainment
       <br/>Dominic's Accreditation: Motion capture QA technician
     </p>
