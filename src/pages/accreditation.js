@@ -26,10 +26,10 @@ const AboutPage = () => (
       <br/>Developer: Exploding Brain Games
       <br/>Dominic's Accreditation: Solo developer
     </p>
-    <h2><a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain_Games.Space_Shark_International&hl=en_US">Munchy Mo</a></h2>
+    <h2><a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain.Munchy_Mo_Demo">Munchy Mo</a></h2>
     <p>
       Platform: Google Play
-      <br/>Release Date: 06/27/2013
+      <br/>Release Date: 01/14/2014
       <br/>Developer: Exploding Brain Games
       <br/>Dominic's Accreditation: Solo developer
     </p>
