@@ -10,6 +10,7 @@ const SecondPage = () => (
     <h3><a href="https://leetcode.com/dominus64/">LeetCode</a></h3>
     <h3><a href="https://www.linkedin.com/in/dominic-sieli-2a02b3192/">LinkedIn</a></h3>
     <h3><a href="https://stackoverflow.com/users/12935754/dominic-sieli">Stack Overflow</a></h3>
+    <h3><a href="https://explodingbraingamesllc.com/">Exploding Brain Games</a></h3>
   </Layout>
 )
 
