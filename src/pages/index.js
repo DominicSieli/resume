@@ -10,21 +10,21 @@ const IndexPage = () => (
     <SEO title="Resume" />
     <h1>Resume</h1>
     <p>
-    SKILLS
+    <h2>SKILLS</h2>
     <br/>•  Programming: C/C++, and C#
     <br/>•  Game Engines: Unity, Unreal, and Godot
     <br/>•  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
     <br/>•  Publishing Experience: Xbox One, and Google Play Store
     </p>
     <p>
-    PUBLISHED GAMES
+    <h2>PUBLISHED GAMES</h2>
     <br/>•  Vector Blade (Xbox One) - Exploding Brain Games, 2019
     <br/>•  Space Shark (Google Play) - Exploding Brain Games, 2015
     <br/>•  Munchy Mo (Google Play) - Exploding Brain Games, 2014
     <br/>•  Alan Wake (Xbox 360) - Remedy Entertainment, 2010
     </p>
     <p>
-    WORK EXPERIENCE
+    <h2>WORK EXPERIENCE</h2>
     <br/>  Exploding Brain Games LLC, Phoenix, AZ - Owner
     <br/>  12/2013 - 04/2021
     <br/>  •  Owner
@@ -37,7 +37,7 @@ const IndexPage = () => (
     <br/>  •  Performance Capture Marker and Actor Preparation
     </p>
     <p>
-    EDUCATION
+    <h2>EDUCATION</h2>
     <br/>  ITT Technical Institute, Tempe AZ - Bachelor’s Degree
     <br/>  03/2007 - 03/2011
     <br/>  Bachelor of Computer Science in Digital Entertainment and Game Design
