@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h1>Resume</h1>
     <p>
     SKILLS
-    <br/>•  Programming: C, C++, and C#
+    <br/>•  Programming: C/C++, and C#
     <br/>•  Game Engines: Unity, Unreal, and Godot
     <br/>•  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
     <br/>•  Publishing Experience: Xbox One, and Google Play Store
