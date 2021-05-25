@@ -9,8 +9,8 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Resume" />
     <h1>Resume</h1>
-    <p>
     <h2>SKILLS</h2>
+    <p>
          •  Programming: C/C++, and C#
     <br/>•  Game Engines: Unity, Unreal, and Godot
     <br/>•  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
