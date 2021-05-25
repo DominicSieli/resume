@@ -199,7 +199,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  color: rgb(60, 60, 60);
+  color: hsl(0, 0%, 100%);
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
