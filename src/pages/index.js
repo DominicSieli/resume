@@ -7,21 +7,41 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="About" />
-    <h1>About Dominic</h1>
+    <SEO title="Resume" />
+    <h1>Resume</h1>
     <p>
-      Dominic is a video game and software developer with over 10 years of experience.
-      He graduated from ITT Technical Institute with a bachelor's degree in digital entertainment
-      and game design. He has been very active in the game development community with accreditation
-      on the hit Xbox 360 title Alan Wake, as well as self-published solo projects including 
-      Vector Blade(Xbox One), Space Shark(Google Play), and Munchy Mo(Google Play).
+    SKILLS
+      • Programming: C, C++, and C#
+      • Game Engines: Unity, Unreal, and Godot
+      • Editors: Visual Studio, CodeBlocks, VS Code, and Vim
+      • Publishing Experience: Xbox One, and Google Play Store
     </p>
     <p>
-      Dominic is a passionate programmer who is always looking for new challenges and opportunities
-      to develop his skills. His stoic optimism gives him the grit and determination to overcome
-      difficult tasks and finish challenging projects. Developing and publishing video games is no 
-      easy task, especially for a solo developer. Dominic has proven that he can fallow difficult 
-      projects to completion and deliver quality software.
+    PUBLISHED GAMES
+      • Vector Blade (Xbox One) - Exploding Brain Games, 2019
+      • Space Shark (Google Play) - Exploding Brain Games, 2015
+      • Munchy Mo (Google Play) - Exploding Brain Games, 2014
+      • Alan Wake (Xbox 360) - Remedy Entertainment, 2010
+    </p>
+    <p>
+    WORK EXPERIENCE
+      Exploding Brain Games LLC, Phoenix, AZ - Owner
+      12/2013 - 04/2021
+      • Owner
+      • Solo Game Developer
+
+      CaptiveMotion LLC, Tempe, AZ - Performance Capture QA
+      08/2009 - 06/2011
+      • Performance Capture Data Clean-Up
+      • Performance Capture Camera Calibration
+      • Performance Capture Marker and Actor Preparation
+    </p>
+    <p>
+    EDUCATION
+      ITT Technical Institute, Tempe AZ - Bachelor’s Degree
+      03/2007 - 03/2011
+      Bachelor of Computer Science in Digital Entertainment and Game Design
+      GPA 3.42
     </p>
   </Layout>
 )

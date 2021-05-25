@@ -3,16 +3,12 @@ module.exports = {
     title: `Dominic Sieli`,
     menuLinks:[
       {
-        name: 'About',
+        name: 'Resume',
         link: '/'
       },
       {
         name: 'Accreditation',
         link: '/accreditation'
-      },
-      {
-        name: 'Projects',
-        link: '/projects'
       },
       {
         name: 'Links',
