@@ -200,7 +200,7 @@ html {
 }
 body {
   color: hsl(0, 0%, 100%);
-  background: rgb(60, 60, 60);
+  background: rgb(70, 70, 70);
   font-family: georgia, serif;
   font-weight: normal;
   word-wrap: break-word;
@@ -230,7 +230,7 @@ h1 {
   padding-right: 0;
   padding-top: 0;
   margin-bottom: 1.45rem;
-  color: inherit;
+  color: '#50DE28';
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-weight: bold;
