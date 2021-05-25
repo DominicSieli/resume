@@ -11,37 +11,37 @@ const IndexPage = () => (
     <h1>Resume</h1>
     <p>
     SKILLS
-      Programming: C, C++, and C#
-      Game Engines: Unity, Unreal, and Godot
-      Editors: Visual Studio, CodeBlocks, VS Code, and Vim
-      Publishing Experience: Xbox One, and Google Play Store
+    <br/>  Programming: C, C++, and C#
+    <br/>  Game Engines: Unity, Unreal, and Godot
+    <br/>  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
+    <br/>  Publishing Experience: Xbox One, and Google Play Store
     </p>
     <p>
     PUBLISHED GAMES
-      Vector Blade (Xbox One) - Exploding Brain Games, 2019
-      Space Shark (Google Play) - Exploding Brain Games, 2015
-      Munchy Mo (Google Play) - Exploding Brain Games, 2014
-      Alan Wake (Xbox 360) - Remedy Entertainment, 2010
+    <br/>  Vector Blade (Xbox One) - Exploding Brain Games, 2019
+    <br/>  Space Shark (Google Play) - Exploding Brain Games, 2015
+    <br/>  Munchy Mo (Google Play) - Exploding Brain Games, 2014
+    <br/>  Alan Wake (Xbox 360) - Remedy Entertainment, 2010
     </p>
     <p>
     WORK EXPERIENCE
-      Exploding Brain Games LLC, Phoenix, AZ - Owner
-      12/2013 - 04/2021
-        Owner
-        Solo Game Developer
-
-      CaptiveMotion LLC, Tempe, AZ - Performance Capture QA
-      08/2009 - 06/2011
-        Performance Capture Data Clean-Up
-        Performance Capture Camera Calibration
-        Performance Capture Marker and Actor Preparation
+    <br/>  Exploding Brain Games LLC, Phoenix, AZ - Owner
+    <br/>  12/2013 - 04/2021
+    <br/>    Owner
+    <br/>    Solo Game Developer
+    <br/>
+    <br/>  CaptiveMotion LLC, Tempe, AZ - Performance Capture QA
+    <br/>  08/2009 - 06/2011
+    <br/>    Performance Capture Data Clean-Up
+    <br/>    Performance Capture Camera Calibration
+    <br/>    Performance Capture Marker and Actor Preparation
     </p>
     <p>
     EDUCATION
-      ITT Technical Institute, Tempe AZ - Bachelor’s Degree
-      03/2007 - 03/2011
-      Bachelor of Computer Science in Digital Entertainment and Game Design
-      GPA 3.42
+    <br/>  ITT Technical Institute, Tempe AZ - Bachelor’s Degree
+    <br/>  03/2007 - 03/2011
+    <br/>  Bachelor of Computer Science in Digital Entertainment and Game Design
+    <br/>  GPA 3.42
     </p>
   </Layout>
 )

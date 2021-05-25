@@ -6,10 +6,10 @@ const SecondPage = () => (
   <Layout>
     <h1>Contacts</h1>
     <p>
-      (602)448-9528
+      Phone: (602)448-9528
     </p>
     <p>
-      dominicsieli@gmail.com
+      Email: dominicsieli@gmail.com
     </p>
   </Layout>
 )
