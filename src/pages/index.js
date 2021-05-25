@@ -11,30 +11,30 @@ const IndexPage = () => (
     <h1>Resume</h1>
     <p>
     SKILLS
-    <br/>  Programming: C, C++, and C#
-    <br/>  Game Engines: Unity, Unreal, and Godot
-    <br/>  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
-    <br/>  Publishing Experience: Xbox One, and Google Play Store
+    <br/>•  Programming: C, C++, and C#
+    <br/>•  Game Engines: Unity, Unreal, and Godot
+    <br/>•  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
+    <br/>•  Publishing Experience: Xbox One, and Google Play Store
     </p>
     <p>
     PUBLISHED GAMES
-    <br/>  Vector Blade (Xbox One) - Exploding Brain Games, 2019
-    <br/>  Space Shark (Google Play) - Exploding Brain Games, 2015
-    <br/>  Munchy Mo (Google Play) - Exploding Brain Games, 2014
-    <br/>  Alan Wake (Xbox 360) - Remedy Entertainment, 2010
+    <br/>•  Vector Blade (Xbox One) - Exploding Brain Games, 2019
+    <br/>•  Space Shark (Google Play) - Exploding Brain Games, 2015
+    <br/>•  Munchy Mo (Google Play) - Exploding Brain Games, 2014
+    <br/>•  Alan Wake (Xbox 360) - Remedy Entertainment, 2010
     </p>
     <p>
     WORK EXPERIENCE
     <br/>  Exploding Brain Games LLC, Phoenix, AZ - Owner
     <br/>  12/2013 - 04/2021
-    <br/>    Owner
-    <br/>    Solo Game Developer
+    <br/>  •  Owner
+    <br/>  •  Solo Game Developer
     <br/>
     <br/>  CaptiveMotion LLC, Tempe, AZ - Performance Capture QA
     <br/>  08/2009 - 06/2011
-    <br/>    Performance Capture Data Clean-Up
-    <br/>    Performance Capture Camera Calibration
-    <br/>    Performance Capture Marker and Actor Preparation
+    <br/>  •  Performance Capture Data Clean-Up
+    <br/>  •  Performance Capture Camera Calibration
+    <br/>  •  Performance Capture Marker and Actor Preparation
     </p>
     <p>
     EDUCATION
