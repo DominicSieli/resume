@@ -14,7 +14,7 @@ const IndexPage = () => (
     <p>
            •  Programming: C/C++, and C#
       <br/>•  Game Engines: Unity, Unreal, and Godot
-      <br/>•  Editors: Visual Studio, CodeBlocks, VS Code, and Vim
+      <br/>•  Editors: Visual Studio, Code::Blocks, VS Code, and Vim
       <br/>•  Publishing Experience: Xbox One, and Google Play Store
     </p>
 
