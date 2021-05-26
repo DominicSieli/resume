@@ -38,7 +38,7 @@ const Header = ({ siteTitle, menuLinks }) => (
                   padding: `1rem`,
                 }}
               >
-                <Link style={{ color: `#64C8C8` }} to={link.link}>
+                <Link style={{ color: `#00FFFF` }} to={link.link}>
                   {link.name}
                 </Link>
               </li>
