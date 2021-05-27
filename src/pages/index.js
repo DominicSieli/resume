@@ -20,10 +20,10 @@ const IndexPage = () => (
 
     <h2>PUBLISHED GAMES</h2>
     <p>
-           <a href="https://www.microsoft.com/en-us/p/vector-blade/9pj4rv8ngjbn?activetab=pivot:overviewtab">Vector Blade</a> (Xbox One) - Exploding Brain Games, 2019
-      <br/><a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain_Games.Space_Shark_Free">Space Shark</a> (Google Play) - Exploding Brain Games, 2015
-      <br/><a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain.Munchy_Mo_Demo">Munchy Mo</a> (Google Play) - Exploding Brain Games, 2014
-      <br/><a href="https://www.mobygames.com/developer/sheet/view/developerId,426098/">Alan Wake</a> (Xbox 360) - Remedy Entertainment, 2010
+           •  <a href="https://www.microsoft.com/en-us/p/vector-blade/9pj4rv8ngjbn?activetab=pivot:overviewtab">Vector Blade</a> (Xbox One) - Exploding Brain Games, 2019
+      <br/>•  <a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain_Games.Space_Shark_Free">Space Shark</a> (Google Play) - Exploding Brain Games, 2015
+      <br/>•  <a href="https://play.google.com/store/apps/details?id=com.Exploding_Brain.Munchy_Mo_Demo">Munchy Mo</a> (Google Play) - Exploding Brain Games, 2014
+      <br/>•  <a href="https://www.mobygames.com/developer/sheet/view/developerId,426098/">Alan Wake</a> (Xbox 360) - Remedy Entertainment, 2010
     </p>
 
     <h2>WORK EXPERIENCE</h2>
