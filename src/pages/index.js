@@ -42,7 +42,7 @@ const IndexPage = () => (
 
     <h2>EDUCATION</h2>
     <p>
-             ITT Technical Institute, Tempe AZ - Bachelor’s Degree
+             ITT Technical Institute, Tempe, AZ - Bachelor’s Degree
       <br/>  03/2007 - 03/2011
       <br/>  Bachelor of Computer Science in Digital Entertainment and Game Design
       <br/>  GPA 3.42
