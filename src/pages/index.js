@@ -43,9 +43,14 @@ const IndexPage = () => (
     <h2>EDUCATION</h2>
     <p>
              ITT Technical Institute, Tempe, AZ - Bachelor’s Degree
-      <br/>  03/2007 - 03/2011
+      <br/>  03/2009 - 03/2011
       <br/>  Bachelor of Computer Science in Digital Entertainment and Game Design
       <br/>  GPA 3.42
+      <br/>
+      <br/>  ITT Technical Institute, Tempe, AZ - Associate’s Degree
+      <br/>  03/2007 - 03/2009
+      <br/>  Associate of Computer-Aided Design and Drafting
+      <br/>  GPA 3.35
     </p>
   </Layout>
 )
