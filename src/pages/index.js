@@ -39,13 +39,13 @@ const IndexPage = () => (
     <h2>WORK EXPERIENCE</h2>
     <p>
            <b>Owner - Game Developer</b>
-      <br/>   Exploding Brain Games LLC - Phoenix, AZ  (12/2013 – 04/2021)
+      <br/><b>Exploding Brain Games LLC - Phoenix, AZ  (12/2013 – 04/2021)</b>
       <br/>•  Owner
       <br/>•  Game Developer
       <br/>•  Software Engineer
       <br/>
       <br/><b>Performance Capture QA Intern</b>
-      <br/>   CaptiveMotion LLC - Tempe, AZ  (08/2009 – 06/2011)
+      <br/><b>CaptiveMotion LLC - Tempe, AZ  (08/2009 – 06/2011)</b>
       <br/>•  Performance Capture QA Technician
       <br/>•  Performance Capture Camera Calibration Technician
     </p>
