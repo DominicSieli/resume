@@ -11,16 +11,24 @@ body
 
 a:link
 {
-    color: rgb(0, 255, 0);
+    color: rgb(52, 190, 91);
 }
 
-a:visited {
+a:visited
+{
     color: rgb(0, 100, 0);
 }
 
-a:hover {
-    color: rgb(0, 255, 255);
+a:hover
+{
+    color: rgb(0, 255, 0);
 }
+
+ul
+{
+    list-style-position: inside;
+    padding-left: 0;
+}​
 
 .link
 {
@@ -43,13 +51,16 @@ a:hover {
 {
     font-size: 60px;
     line-height: 2rem;
-    margin-top: 10px;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     white-space: nowrap;
     color: rgb(52, 190, 91);
 }
 
 .header-2
 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     font-size: 50px;
     white-space: nowrap;
     color: rgb(52, 190, 91);
@@ -57,6 +68,8 @@ a:hover {
 
 .header-3
 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     font-size: 40px;
     white-space: nowrap;
     color: rgb(52, 190, 91);
@@ -64,6 +77,8 @@ a:hover {
 
 .header-4
 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     font-size: 30px;
     white-space: nowrap;
     color: rgb(52, 190, 91);
@@ -71,6 +86,8 @@ a:hover {
 
 .header-5
 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     font-size: 20px;
     white-space: nowrap;
     color: rgb(52, 190, 91);
@@ -78,6 +95,8 @@ a:hover {
 
 .header-6
 {
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
     font-size: 10px;
     white-space: nowrap;
     color: rgb(52, 190, 91);
@@ -95,8 +114,7 @@ a:hover {
 .horizontal-layout
 {
     display: flex;
-    flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .pill
@@ -131,18 +149,18 @@ a:hover {
 .vertical-spacer
 {
     height: auto;
-    border-left: 1px solid rgb(35, 35, 35);
+    border-left: 1px solid rgb(52, 190, 91);
 }
 
 .horizontal-spacer
 {
     size: 1px;
-    width: 25%;
-    margin-top: 20px;
+    width: 50%;
+    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
-    border: 1px solid rgb(10, 36, 17);
+    margin-bottom: 0px;
+    border: 1px solid rgb(52, 190, 91);
 }
 
 .horizontal-cell
