@@ -1,50 +1,47 @@
 *
 {
     margin: 0px;
-    color:rgb(200, 200, 200);
-}
-
-body
-{
-    background-color: rgb(30, 30, 30);
 }
 
 a:link
 {
-    color: rgb(52, 190, 91);
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(0, 100, 255);
 }
 
 a:visited
 {
-    color: rgb(0, 100, 0);
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(0, 0, 255);
 }
 
 a:hover
 {
-    color: rgb(0, 255, 0);
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(0, 180, 255);
 }
 
 ul
 {
     list-style-position: inside;
     padding-left: 0;
-}​
-
-.link
-{
-    font-size: 20px;
 }
 
 .header-bar
 {
     width: 100%;
-    margin: 0px;
-    padding: 10px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
     text-align: center;
-    position: relative;
-    box-sizing: inherit;
-    border: 1px solid rgb(60, 60, 60);
-    background-color: rgb(40, 40, 40);
+    border: 1px solid rgb(162, 221, 255);
+    background-color: rgb(240, 240, 240);
+    box-shadow: 0 10px 5px 0px rgba(0,0,0,0.2);
 }
 
 .header-1
@@ -54,7 +51,7 @@ ul
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .header-2
@@ -63,7 +60,7 @@ ul
     margin-bottom: 0.2rem;
     font-size: 50px;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .header-3
@@ -72,7 +69,7 @@ ul
     margin-bottom: 0.2rem;
     font-size: 40px;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .header-4
@@ -81,7 +78,7 @@ ul
     margin-bottom: 0.2rem;
     font-size: 30px;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .header-5
@@ -90,7 +87,7 @@ ul
     margin-bottom: 0.2rem;
     font-size: 20px;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .header-6
@@ -99,7 +96,7 @@ ul
     margin-bottom: 0.2rem;
     font-size: 10px;
     white-space: nowrap;
-    color: rgb(52, 190, 91);
+    color: rgb(0, 100, 255);
 }
 
 .vertical-layout
@@ -113,6 +110,7 @@ ul
 
 .horizontal-layout
 {
+    padding: auto;
     display: flex;
     justify-content: space-around;
 }
@@ -171,6 +169,7 @@ ul
     overflow: hidden;
     border-radius: 10px;
     white-space: nowrap;
-    border: 1px solid rgb(60, 60, 60);
-    background-color: rgb(40, 40, 40);
+    border: 1px solid rgb(162, 221, 255);
+    background-color: rgb(240, 240, 240);
+    box-shadow: 0 5px 5px 5px rgba(0,0,0,0.2);
 }
