@@ -7,21 +7,18 @@ a:link
 {
     font-size: 30px;
     text-decoration: none;
-    color: rgb(0, 100, 255);
 }
 
 a:visited
 {
     font-size: 30px;
     text-decoration: none;
-    color: rgb(0, 0, 255);
 }
 
 a:hover
 {
     font-size: 30px;
     text-decoration: none;
-    color: rgb(0, 180, 255);
 }
 
 ul
