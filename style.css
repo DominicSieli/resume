@@ -7,18 +7,21 @@ a:link
 {
     font-size: 30px;
     text-decoration: none;
+    color: rgb(0, 100, 255);
 }
 
 a:visited
 {
     font-size: 30px;
     text-decoration: none;
+    color: rgb(0, 100, 255);
 }
 
 a:hover
 {
     font-size: 30px;
     text-decoration: none;
+    color: rgb(0, 100, 255);
 }
 
 ul
@@ -92,6 +95,15 @@ ul
     margin-top: 0.2rem;
     margin-bottom: 0.2rem;
     font-size: 10px;
+    white-space: nowrap;
+    color: rgb(0, 100, 255);
+}
+
+.catagory-header
+{
+    margin-top: 4rem;
+    margin-bottom: 0.2rem;
+    font-size: 30px;
     white-space: nowrap;
     color: rgb(0, 100, 255);
 }
